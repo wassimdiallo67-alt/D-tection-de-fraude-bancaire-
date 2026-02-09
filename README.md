@@ -3,6 +3,7 @@ Détection de Fraudes Bancaires par Autoencodeur
 Ce projet vise à détecter automatiquement les transactions frauduleuses dans un ensemble de données bancaires en utilisant un autoencodeur, un type de réseau de neurones.
 
 Problème
+
 Les fraudes bancaires représentent moins de 1% des transactions, ce qui rend leur détection difficile avec les méthodes classiques. L’objectif est de développer un modèle capable d’identifier ces transactions anormales.
 
 Données
